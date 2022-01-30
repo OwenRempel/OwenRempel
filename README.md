@@ -5,7 +5,7 @@
 
 Welcome to my GitHub, My name is Owen.
 
-I'm a sometimes programmer / photographer.
+I'm a sometimes Programmer / Photographer.
 My focus is on web development involving both front and backend systems as well as sysadmin type upkeep of servers.
 Most of my projects are simple personal or small business websites, as well as a few custom CMS systems.
 
@@ -16,7 +16,7 @@ One of my current goals is to create a cattle management app that can handle var
 
 
 
-- 🔭 I’m currently working on a Cattle managment app
+- 💻 I’m currently working on a Cattle managment app
 - 🌱 I’m currently learning React
 - ⚡ Fun fact: Stop signs used to be yellow!
 
