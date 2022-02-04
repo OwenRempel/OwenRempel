@@ -31,7 +31,7 @@ One of my current goals is to create a cattle management app that can handle var
 # Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OwenRempel&repo=Hooves&theme=dracula)](https://github.com/OwenRempel/Hooves)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OwenRempel&repo=php_auth&theme=dracula)](https://github.com/OwenRempel/php_auth)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OwenRempel&repo=GoodlowEFC&theme=dracula)](https://github.com/OwenRempel/GoodlowEFC)
 
 
 # Stats
