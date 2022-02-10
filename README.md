@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/OwenRempel/OwenRempel/main/photos/DJI_0937-Pano.jpg)
+<!--- ![Banner](https://raw.githubusercontent.com/OwenRempel/OwenRempel/main/photos/DJI_0937-Pano.jpg) --->
 
 
 # Hello! 👋
