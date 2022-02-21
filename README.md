@@ -27,17 +27,18 @@ One of my current goals is to create a cattle management app that can handle var
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
 
-
+<!---
 # Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OwenRempel&repo=Hooves&theme=dracula)](https://github.com/OwenRempel/Hooves)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OwenRempel&repo=GoodlowEFC&theme=dracula)](https://github.com/OwenRempel/GoodlowEFC)
-
+--->
 
 # Stats
 
+<!---
 [![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OwenRempel&layout=compact&theme=dracula)](https://github.com/OwenRempel)
 
-<!--- [![GitHub Streak](https://github-readme-stats.vercel.app/api?username=OwenRempel&theme=dracula)](https://github.com/OwenRempel) --->
+ [![GitHub Streak](https://github-readme-stats.vercel.app/api?username=OwenRempel&theme=dracula)](https://github.com/OwenRempel) --->
 
 [![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=OwenRempel&theme=dark&count_private=true&theme=dracula)](https://github.com/OwenRempel)
