@@ -62,4 +62,4 @@ I like owning a system end to end: the database, the API, the interface and the 
 
 ### Behind the camera
 
-I shoot landscapes, portraits and the occasional wedding as [Norlight Photography & Cinema](https://norlight.photography), and I co-founded Northstory Creative, which does web, photo and video for nonprofits, schools and faith organizations. The banner up top is one of mine. Prints are in the [store](https://norlightphotography.pixieset.com).
+I shoot landscapes, portraits and the occasional wedding as [Norlight Photography & Cinema](https://norlight.photography), and I co-founded [Northstory Creative](https://northstorycreative.ca/), which does web, photo and video for nonprofits, schools and faith organizations. The banner up top is one of mine. Prints are in the [store](https://norlightphotography.pixieset.com).
